@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LightsOut</string>
+    <string name="title_text">Lights Out</string>
+    <string name="name_input" />
+    <string name="hint_txt">Enter Name</string>
+    <string name="enter_button">Enter</string>
+    <string name="name_output">Unknown</string>
+    <string name="move_count">Move count </string>
+    <string name="congrats">\nCONGRATULATIONS!\n You Won!\n</string>>
+</resources>

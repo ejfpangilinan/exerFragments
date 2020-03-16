@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LightsOut</string>
+    <string name="title_text">Lights Out</string>
+    <string name="name_input" />
+    <string name="hint_txt">Enter Name</string>
+    <string name="enter_button">Enter</string>
+    <string name="name_output">Unknown</string>
+    <string name="move_count">Move count </string>
+    <string name="congrats">\nCONGRATULATIONS!\n You Won!\n</string>
+    <string name="play">Play</string>
+    <string name="lout">title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_again">Play Again</string>>
+</resources>
